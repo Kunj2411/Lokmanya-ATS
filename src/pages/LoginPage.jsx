@@ -98,11 +98,6 @@ export default function LoginPage() {
           </button>
         </form>
 
-        <div className="mt-6 text-center text-sm text-gray-600">
-          <p className="mb-2">Demo Credentials:</p>
-          <p>Admin: admin@lokmanya.edu / admin123</p>
-          <p>Faculty: faculty@lokmanya.edu / faculty123</p>
-        </div>
       </div>
     </div>
   )
